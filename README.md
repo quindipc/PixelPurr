@@ -83,9 +83,10 @@ Visit `http://localhost:3000` in your browser.
 
 ## 📅 Agile Workflow & Sprint Planning
 
-### **Sprint 1: Spotify API Integration**
+### **Sprint 1: Set up & Spotify API Integration**
 
-✅ Set up Spotify Developer Account & OAuth Authentication\
+✅ Set up project structure\
+⬜ Set up Spotify Developer Account & OAuth Authentication\
 ⬜ Fetch Lo-Fi playlists & display track info\
 ⬜ Create basic player UI with play/pause controls
 
@@ -107,11 +108,13 @@ Visit `http://localhost:3000` in your browser.
 
 ### **Sprint 1: Spotify API Integration**
 
-| Date       | Task Completed                    | Notes                  |
-| ---------- | --------------------------------- | ---------------------- |
-| 2025-02-25 | Set up Spotify API authentication | OAuth flow working     |
-| YYYY-MM-DD | Fetched Lo-Fi playlist from API   | Testing track previews |
-| YYYY-MM-DD | Basic player UI added             | Play/Pause working     |
+| Date       | Task Completed                                   | Notes                  |
+| ---------- | ---------------------------------                | ---------------------- |
+| 2025-02-25 | Set up Spotify API authentication                | Get access token & test on Thunder Client   |
+| 2025-03-03 | Clean up folder & add in skeleton file structure | ---------------------- |
+| 2025-03-03 | Build out the backend for the Spotify API using TypeScript             | ---------------------- |
+| YYYY-MM-DD | Fetched Lo-Fi playlist from API                  | Testing track previews |
+| YYYY-MM-DD | Basic player UI added                            | Play/Pause working     |
 
 ---
 
